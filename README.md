@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👨🏻‍💻 João Guilherme
 
-<!--
-**joaoguilherme-star/joaoguilherme-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack | Suporte de TI | Machine Learning`**
 
-Here are some ideas to get you started:
+Me chamo João Guilherme Alcântara Oliveira, sempre fui apaixonado por tecnologia e inovação, tenho experiência em desenvolvimento web, suporte de TI, machine learning e marketing digital. Atualmente curso Análise e Desenvolvimento de Sistemas e atuo como Suporte Técnico de TI na Experts Eletrônicos e Informática e como Software Engineer na ZAP Multimarcas, onde desenvolvo soluções digitais que reduzem custos e otimizam processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias
+Java · Spring Boot · JavaScript · Python · HTML · CSS · Tailwind · Bootstrap · Git · Docker · MySQL · PostgreSQL
+
+---
+
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoguilherme0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
